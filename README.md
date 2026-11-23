@@ -22,4 +22,7 @@ Juego de naves 2D en Unity 6 de una nave, dispara con cooldown y destruye enemig
 PlayerController, Bullet/BulletAvanzada, EnemyController, EnemySpawner,
 GameManager, AudioManager, GameVFX, BackgroundScroller, CreateStarfield.
 
+## Trabajo realizado por 
 
+- Angeleau Pierre Jeudi ---> Enlace al Blog: [https://anpije.github.io/Naves-2D/]
+- Ejecutable: Descargar la build: [(https://github.com/Anpije/Naves-2D/releases/latest)]
